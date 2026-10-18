@@ -1,0 +1,48 @@
+# Compiled binaries and object files
+*.o
+*.a
+*.so
+*.elf
+*.hex
+*.eep
+*.bin
+*.out
+*.exe
+
+# Debugging and build artifacts
+*.map
+*.d
+*.su
+*.stackdump
+core
+core.*
+
+# Build output directories
+build/
+dist/
+Debug/
+Release/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Temporary files
+tmp/
+temp/

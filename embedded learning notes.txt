@@ -1,0 +1,24 @@
+1. Datasheet:
+	- pin functions
+	- electrical characteristics
+	- operating voltage
+	- timing
+	- memory
+	- absolute maximum ratings
+
+2. Schematic:
+	- what is electrically connected to each other?
+
+3. PCB layout:
+	- where are the physical components and copper traces?
+
+4. Bill of Materials
+	- what physical parts do we need to build this?
+
+5. Firmware documentation
+	- file hierarchy and documentation explaining functions (comments, README)
+
+6. Requirements/specification
+	- what is the device supposed to do?
+
+also look into pin assignment tables
